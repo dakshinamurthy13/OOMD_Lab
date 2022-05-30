@@ -28,7 +28,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "StateMachine1",
+			"name": "College Management System",
 			"ownedElements": [
 				{
 					"_type": "UMLStatechartDiagram",
@@ -573,9 +573,9 @@
 									"font": "Arial;13;0",
 									"left": 135.94091796875,
 									"top": 61,
-									"width": 87.7216796875,
+									"width": 171.52978515625,
 									"height": 13,
-									"text": "StateMachine1"
+									"text": "College Management System"
 								},
 								{
 									"_type": "LabelView",
