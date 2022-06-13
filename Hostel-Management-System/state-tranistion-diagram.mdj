@@ -55,9 +55,9 @@
 										"$ref": "AAAAAAGBE+a1069TAH8="
 									},
 									"font": "Arial;13;0",
-									"left": 527.94091796875,
+									"left": 525.78271484375,
 									"top": 45,
-									"width": 157.0634765625,
+									"width": 141.81640625,
 									"height": 13,
 									"text": "Hostel Mangement System"
 								},
@@ -70,7 +70,7 @@
 									"font": "Arial;13;1",
 									"left": 501,
 									"top": 45,
-									"width": 21.94091796875,
+									"width": 19.78271484375,
 									"height": 13,
 									"text": "stm"
 								}
@@ -5469,8 +5469,8 @@
 							"font": "Arial;13;0",
 							"left": 496,
 							"top": 40,
-							"width": 913,
-							"height": 673,
+							"width": 777,
+							"height": 641,
 							"nameLabel": {
 								"$ref": "AAAAAAGBOVTAJGUFCEQ="
 							},
